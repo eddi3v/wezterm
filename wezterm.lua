@@ -80,7 +80,7 @@ config.keys = {
 	{
 		key = "k",
 		mods = "CTRL|SHIFT",
-			action = wezterm.action.ActivatePaneDirection("Up"),
+		action = wezterm.action.ActivatePaneDirection("Up"),
 	},
 }
 
